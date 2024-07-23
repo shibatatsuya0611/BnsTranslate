@@ -1,0 +1,2 @@
+# BnsTranslate
+BNS Translate
