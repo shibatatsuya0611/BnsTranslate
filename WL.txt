@@ -1,0 +1,18 @@
+<table>
+  <text autoId="183945" alias="ItemSkill.Text.WL_TargetBeam_G1_Lv1_01_Desc" priority="0">
+    <original><![CDATA[压制期间，<font name="00008130.UI.Vital_LightBlue">次元弹</font>命中时造成攻击力的55%的附加伤害]]></original>
+    <replacement><![CDATA[Trong trang thai Dan Hon, gay sat thuong tuong duong 55% Luc tan cong khi su dung thanh cong <font name="00008130.UI.Vital_LightBlue">Phao Khong Gian</font>]]></replacement>
+  </text>
+  <text autoId="183946" alias="ItemSkill.Text.WL_TargetBeam_G1_Lv1_01_Tooltip" priority="0">
+    <original><![CDATA[压制期间，次元弹命中时造成攻击力的55%的附加伤害]]></original>
+    <replacement><![CDATA[Trong trang thai Dan Hon, gay sat thuong tuong duong 55% Luc tan cong khi su dung thanh cong Phao Khong Gian.]]></replacement>
+  </text>
+  <text autoId="183947" alias="ItemSkill.Text.WL_TargetBeam_G1_Lv1_02_Desc" priority="0">
+    <original><![CDATA[압도 중 <font name="00008130.UI.Vital_LightBlue">수라</font> 명중 시 공격력의 45% 추가피해]]></original>
+    <replacement><![CDATA[Trong trang thai Dan Hon, gay sat thuong tuong duong 45% Luc tan cong khi su dung <font name="00008130.UI.Vital_LightBlue">Diet Tru</font>]]></replacement>
+  </text>
+  <text autoId="183948" alias="ItemSkill.Text.WL_TargetBeam_G1_Lv1_02_Tooltip" priority="0">
+    <original><![CDATA[압도 중 수라 명중 시 공격력의 45% 추가피해]]></original>
+    <replacement><![CDATA[Trong trang thai Dan Hon, gay sat thuong tuong duong 45% Luc tan cong khi su dung Diet Tru]]></replacement>
+  </text>
+</table>
