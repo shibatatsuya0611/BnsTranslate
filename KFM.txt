@@ -1,0 +1,7 @@
+<table>
+	<text autoId="753305" alias="text.desc2.KFM_newbuff_02" priority="0">
+    <original><![CDATA[接受太初火焰之力的状态<br/>伤害减免50%<br/>抵抗状态异常]]></original>
+    <replacement><![CDATA[Trang thai nhan suc manh cua ngon lua nguyen thuy<br/>Giam sat thuong 50%<br/>Khang hieu ung trang thai]]></replacement>
+  </text>
+  
+</table>

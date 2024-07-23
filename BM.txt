@@ -1,0 +1,7 @@
+<table>
+	<text autoId="175385" alias="ItemSkill.BM_Base1_S0A_S1_01_E1_01_Desc" priority="0">
+		<original><![CDATA[Hong Mon 1 Thuc <font name="00008130.UI.Vital_LightBlue">Thu Kiem Thuc</font> khi Chinh Xac gay them sat thuong bang 20% cong kich luc.]]></original>
+		<replacement><![CDATA[Hong Mon 1 Thuc <font name="00008130.UI.Vital_LightBlue">Thu Kiem Thuc</font> khi Chinh Xac gay them sat thuong bang 20% cong kich luc.]]></replacement>
+	</text>
+	
+</table>

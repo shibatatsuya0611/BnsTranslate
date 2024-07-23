@@ -1,0 +1,7 @@
+<table>
+	<text autoId="750457" alias="Skill.Name2.Destroyer_Protection_DestructionCircle_S0_1" priority="0">
+		<original><![CDATA[烈火轮：加]]></original>
+		<replacement><![CDATA[Banh Xe Lua: Gia]]></replacement>
+	</text>
+	
+</table>

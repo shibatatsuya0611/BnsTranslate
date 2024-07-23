@@ -1,0 +1,7 @@
+<table>
+	<text autoId="766750" alias="Skill.Assassin__Assassin_Disturb_WoodBlock_Defend_1" priority="0">
+		<original><![CDATA[使用后2秒内可以施展保护隐身术]]></original>
+		<replacement><![CDATA[Sau khi su dung, trong 2 giay co the thi trien Ky nang an bao]]></replacement>
+	</text>
+	
+</table>

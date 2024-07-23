@@ -1,0 +1,7 @@
+<table>
+	<text autoId="356082" alias="Item.Name2.Cash_Costume_Dress_0058" priority="0">
+		<original><![CDATA[誓约]]></original>
+		<replacement><![CDATA[Lời thề]]></replacement>
+	</text>
+	
+</table>

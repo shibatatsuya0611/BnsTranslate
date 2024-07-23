@@ -1,0 +1,7 @@
+<table>
+	<text autoId="178921" alias="Desc.FM_Ring_Skill_OptionSet_Below_Lv12_S0_1" priority="0">
+		<original><![CDATA[<font name="00008130.UI.Vital_LightBlue">烈火掌</font>武功变更为<font name="00008130.UI.Vital_LightBlue">烈火掌：爆神伤</font><br/><arg id="skill-systematization:sp-heal" p="id:skill-systematization.name2"/><br/><font name="00008130.UI.Vital_LightBlue">炎龙啸</font>武功变更为<font name="00008130.UI.Vital_LightBlue">炎龙啸：内</font><br/><arg id="skill-systematization:bounce-pierce" p="id:skill-systematization.name2"/>]]></original>
+		<replacement><![CDATA[<font name="00008130.UI.Vital_LightBlue">Liet Hoa Chuong</font> ky nang bien thanh <font name="00008130.UI.Vital_LightBlue">Liet Hoa Chuong: Bao Than Thuong</font><br/><arg id="skill-systematization:sp-heal" p="id:skill-systematization.name2"/><br/><font name="00008130.UI.Vital_LightBlue">Viem Long Hieu</font> ky nang bien thanh <font name="00008130.UI.Vital_LightBlue">Viem Long Hieu: Noi</font><br/><arg id="skill-systematization:bounce-pierce" p="id:skill-systematization.name2"/>]]></replacement>
+	</text>
+	
+</table>
