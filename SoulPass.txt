@@ -1,3 +1,14 @@
 <table>
-
+  <text autoId="759682" alias="SoulBoost.Name2.SoulBoost_Event_0001" priority="0">
+    <original><![CDATA[剑御洪门]]></original>
+    <replacement><![CDATA[Kiem Vi Hong Mon]]></replacement>
+  </text>
+  <text autoId="759683" alias="SoulBoost.Name2.SoulBoost_Event_0002" priority="0">
+    <original><![CDATA[洪门重逢]]></original>
+    <replacement><![CDATA[Hong Mon Trung Phung]]></replacement>
+  </text>
+  <text autoId="759684" alias="SoulBoost.Name2.SoulBoost_Event_0003" priority="0">
+    <original><![CDATA[洪门重逢 Plus]]></original>
+    <replacement><![CDATA[Hong Mon Trung Phung Plus]]></replacement>
+  </text>
 </table>

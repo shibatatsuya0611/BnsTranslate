@@ -1,0 +1,6 @@
+<table>
+  <text autoId="180534" alias="ItemSkill_SF_FinalAttack_BS1_Lv1_01_Name" priority="0">
+    <original><![CDATA[<font name="00008130.UI.Vital_LightBlue">铁山靠，波动击，雪龙掌</font>强化]]></original>
+    <replacement><![CDATA[Cuong hoa <font name="00008130.UI.Vital_LightBlue">Huc Vai, Noi Nang Chuong, Vung Bang Gia</font>]]></replacement>
+  </text>
+</table>

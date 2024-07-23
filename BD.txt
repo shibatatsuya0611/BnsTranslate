@@ -1,0 +1,19 @@
+<table>
+  <text autoId="754630" alias="Skill.Name2.SwordMaster_S2_2_flying_swallow_Sword" priority="0">
+    <original><![CDATA[飞燕剑：破贯加]]></original>
+    <replacement><![CDATA[Phi Yen Kiem: Pha Quan Gia]]></replacement>
+  </text>
+  <text autoId="754631" alias="Skill.Name2.SwordMaster_S2_3_flying_swallow_Sword" priority="0">
+    <original><![CDATA[飞燕剑：加害]]></original>
+    <replacement><![CDATA[Phi Yen Kiem: Gia Hai]]></replacement>
+  </text>
+  <text autoId="754632" alias="Skill.Name2.SwordMaster_Base_Windy_TwicePierce_batto" priority="0">
+    <original><![CDATA[风烟斩]]></original>
+    <replacement><![CDATA[Phong Yen Tram]]></replacement>
+  </text>
+  <text autoId="754633" alias="Skill.Name2.SwordMaster_S2_1_Windy_TwicePierce_batto" priority="0">
+    <original><![CDATA[风烟斩：攻害]]></original>
+    <replacement><![CDATA[Phong Yen Tram: Cong Hai]]></replacement>
+  </text>
+  
+</table>

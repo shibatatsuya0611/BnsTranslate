@@ -1,0 +1,23 @@
+<table>
+  <text autoId="753651" alias="Skill.Name2.Summoned_Summon_HeavyAttack_Lv1" priority="0">
+    <original><![CDATA[宠爱]]></original>
+    <replacement><![CDATA[Bum!]]></replacement>
+  </text>
+  <text autoId="753652" alias="Skill.Name2.Summoned_Summon_RagingWind_Lv1" priority="0">
+    <original><![CDATA[笑眯眯]]></original>
+    <replacement><![CDATA[Quay Bua]]></replacement>
+  </text>
+  <text autoId="753653" alias="Skill.Name2.Summoned_Summon_PoisonBlow_Lv1" priority="0">
+    <original><![CDATA[爆裂]]></original>
+    <replacement><![CDATA[Bam!]]></replacement>
+  </text>
+  <text autoId="753654" alias="Skill.Name2.Summoned_Summon_RearDash_Lv1" priority="0">
+    <original><![CDATA[啾啾]]></original>
+    <replacement><![CDATA[Len Lut]]></replacement>
+  </text>
+  <text autoId="753655" alias="Skill.Name2.Summoned_Summon_BackStep_Lv1" priority="0">
+    <original><![CDATA[后滚翻]]></original>
+    <replacement><![CDATA[Ne Don]]></replacement>
+  </text>
+  
+</table>

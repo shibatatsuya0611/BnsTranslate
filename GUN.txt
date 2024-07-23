@@ -1,3 +1,15 @@
 <table>
-
+  <text autoId="145391" alias="IBN.ItemBrand_General_Weapon_Gun_2241" priority="0">
+    <original><![CDATA[残缺的星云枪]]></original>
+    <replacement><![CDATA[Sung luc Tinh Van So Cap]]></replacement>
+  </text>
+  <text autoId="145392" alias="IBN.ItemBrand_General_Weapon_Gun_2242_101" priority="0">
+    <original><![CDATA[彗星玄甲枪1级]]></original>
+    <replacement><![CDATA[Sung luc Thien Thach - Cap 1]]></replacement>
+  </text>
+  <text autoId="145393" alias="IBN.ItemBrand_General_Weapon_Gun_2243_101" priority="0">
+    <original><![CDATA[流星拳套段1]]></original>
+    <replacement><![CDATA[Sung luc Sao Bang - Cap 1]]></replacement>
+  </text>
+  
 </table>
